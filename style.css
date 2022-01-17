@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&display=swap');
+
+.heading {
+    font-family: 'Moo Lah Lah', "Time News Ronan", Verdana, cursive;
+    font-size: 60px;
+
+}
+
+a {
+    color: greenyellow;
+    font-size: 20px;
+    font-family: "Times New Roman", verdana, sans-serif;
+
+}
+.demobox {
+    width: 500px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.demobox.feijoada {
+    background-color: #423629;
+    border: 1px solid green;
+
+}
+
+.demobox.rice {
+    background-color: #4F5D2F;
+    border: 1px solid green;
+
+}
+
+.demobox.cheese-bread {
+    background-color: #7D7E75;
+    border: 1px solid green;
+
+}
+
+h1, h2, h3 {
+    font-family:Georgia, 'Times New Roman', Verdana, sans-serif;
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.heading, .recipe-title{
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+
+}
+
+.box {
+    
+    border-radius: 10px;
+    width: 600px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+
+}
+
+.box.description {
+
+    background-color: #fff9e6;
+}
+
+.box.ingredients-container {
+    background-color: #A99EA5;
+
+}
+
+.box.steps {
+    background-color: #A3A58D;
+}
+
