@@ -66,6 +66,7 @@ img {
     padding: 16px;
     margin-top: 10px;
     cursor: pointer;
+}
 
 .breve-button:hover {
     background-color: rgba(168, 233, 156, 0.6);
@@ -73,6 +74,7 @@ img {
 
 header {
     box-sizing: border-box;
+    text-decoration: none;
     background-color:rgba(115, 173, 103, .6);
     position: absolute;
     left: 1%;
@@ -88,20 +90,3 @@ a {
     color: rgba(46, 68, 16, 0.845);
     text-decoration: none;
 }
-
-}
-
-
-/* header {
-    box-sizing: border-box;
-    text-decoration: none;
-    color: #c9d1d9;
-    background-color: #0d1117;
-    position: absolute;
-    left: 0;
-    top: 0;
-    padding: 15px;
-    font-size: 1.3rem;
-    border-right: 1px solid #c9d1d9;
-    border-bottom: 1px solid #c9d1d9;
-} */
